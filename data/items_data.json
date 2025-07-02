@@ -1,11 +1,17 @@
 {
   "Masala": {
-    "Haldi": {"price_per_100g": 15, "image": "haldi.jpg"},
-    "Lal Mirch": {"price_per_100g": 20, "image": "mirch.jpg"},
-    "Garam Masala": {"price_per_100g": 25, "image": "garam_masala.jpg"}
+    "Haldi": {"price_per_kg": 15,"image": "haldi.jpg"},
+    "Lal Mirch": {"price_per_kg": 20, "image": "mirch.jpg"},
+    "Dhaniya Powder": {"price_per_kg": 20, "image": "dhaniya.jpg"},
+    "Garam Masala": {"price_per_kg": 25, "image": "garam_masala.jpg"}
   },
   "Oil": {
-    "Mustard Oil": {"price_per_litre": 150, "image": "mustard.jpg"},
-    "Refined Oil": {"price_per_litre": 120, "image": "refined.jpg"}
+    "Mustard Oil": {"price_per_kg": 150, "image": "mustard.jpg"},
+    "Soyabean Oil": {"price_per_kg": 120, "image": "soyabean.jpg"}
+  },
+  "Rice": {
+    "Basmati Rice": {"price_per_kg": 90,"image": "basmati.jpg"},
+    "Golden Rice": {"price_per_kg": 100, "image": "golden.jpg"},
+    "Parmal Rice":{"price_per_kg" : 40, "image": "parmal.jpg"}
   }
 }
