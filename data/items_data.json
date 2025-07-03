@@ -3,15 +3,35 @@
     "Haldi": {"price_per_kg": 15,"image": "haldi.jpg"},
     "Lal Mirch": {"price_per_kg": 20, "image": "mirch.jpg"},
     "Dhaniya Powder": {"price_per_kg": 20, "image": "dhaniya.jpg"},
-    "Garam Masala": {"price_per_kg": 25, "image": "garam_masala.jpg"}
+    "Garam Masala": {"price_per_kg": 25, "image": "garam_masala.jpg"},
+    "Geera": {"price_per_kg": 25, "image": "jeera.jpg"}
   },
-  "Oil": {
+  "Oil & Ghee": {
     "Mustard Oil": {"price_per_kg": 150, "image": "mustard.jpg"},
-    "Soyabean Oil": {"price_per_kg": 120, "image": "soyabean.jpg"}
+    "Soyabean Oil": {"price_per_kg": 120, "image": "soyabean.jpg"},
+    "Sunflower Oil": {"price_per_kg": 120, "image": "sunflower.jpg"},
+    "Groundnut Oil": {"price_per_kg": 120, "image": "groundnut.jpg"},
+    "Desi Ghee": {"price_per_kg": 120, "image": "ghee.jpg"},
+    "Vanaspati Ghee": {"price_per_kg": 120, "image": "vanaspati.jpg"}
+  },
+  "Sugar & Salt": {
+    "Iodised Namak": {"price_per_kg": 150, "image": "iodised.jpg"},
+    "Kala Namak": {"price_per_kg": 120, "image": "kala.jpg"},
+    "Sugar": {"price_per_kg": 120, "image": "sugar.jpg"},
+    "Sainda Namak": {"price_per_kg": 120, "image": "sainda.jpg"}
   },
   "Rice": {
     "Basmati Rice": {"price_per_kg": 90,"image": "basmati.jpg"},
     "Golden Rice": {"price_per_kg": 100, "image": "golden.jpg"},
+    "Poha": {"price_per_kg": 100, "image": "poha.jpg"},
     "Parmal Rice":{"price_per_kg" : 40, "image": "parmal.jpg"}
+  },
+  "Dal":{
+    "Arhar Dal":{"price_per_kg" : 40, "image": "arhar.jpg"},
+    "Sabut Masoor Dal":{"price_per_kg" : 40, "image": "sabut_masoor.jpg"},
+    "Masoor Dal":{"price_per_kg" : 40, "image": "masoor.jpg"},
+    "Chana Dal":{"price_per_kg" : 40, "image": "chana.jpg"},
+    "Moong Dal":{"price_per_kg" : 40, "image": "moong.jpg"},
+    "Urad Dal":{"price_per_kg" : 40, "image": "urad.jpg"}
   }
 }
